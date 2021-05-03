@@ -40,6 +40,4 @@ public:
 	CNumero** getListaNumeros() { return listaNumeros; };
 	int getPrueba() { return prueba; }
 
-
-
 };

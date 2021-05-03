@@ -10,7 +10,7 @@ class CJuego
 private:
 	CJugador** listaJugadores;
 	int cantidad;
-	bool Estrategia; //0=mixta y 1=pura;
+	bool Estrategia; //mixta = 0 y pura = 0;
 	int tipoJuego;//cuando un juego inicia siempre es pura(ES DECIR, 3x3)
 public:
 	CJuego()
@@ -47,7 +47,7 @@ public:
 	void mostrarPruebas()
 	{
 
-		for (int x = 0; x < 2; x++)// RECORRO 2 JUGADORES
+		for (int x = 0; x < 2; x++)// debe recorger ára dos jugadores
 		{
 			cout << "Jugador " << x + 1 << " : " << endl;
 			for (int y = 0; y < tipoJuego; y++)
@@ -97,8 +97,6 @@ public:
 			}
 			listaJugadores[x]->buscarMayorFilaEstrategias();
 			/******************************/
-
-
 		}
 	}
 	string mostrarCoordenadaEquilibrio()
@@ -149,12 +147,10 @@ public:
 
 			cadena += "(" + to_string(listaJugadores[0]->getListaEstrategias()[1]->getListaNumeros()[1]->getNumero()) + "," +
 				to_string(listaJugadores[1]->getListaEstrategias()[1]->getListaNumeros()[1]->getNumero()) + ")";
-
 		}
 
 		return cadena;
 	}
-
 
 	void Detectar_tipo_Estrategia()
 	{
@@ -191,11 +187,7 @@ public:
 		c = listaJugadores[0]->getListaEstrategias()[1]->getListaNumeros()[0]->getNumero();
 		d = listaJugadores[0]->getListaEstrategias()[1]->getListaNumeros()[1]->getNumero();
 
-
-
 		ecua = new CEcuacion(a, b, c, d, 1);
-
-
 
 		a = listaJugadores[1]->getListaEstrategias()[0]->getListaNumeros()[0]->getNumero();
 		b = listaJugadores[1]->getListaEstrategias()[1]->getListaNumeros()[0]->getNumero();
@@ -203,8 +195,6 @@ public:
 		d = listaJugadores[1]->getListaEstrategias()[1]->getListaNumeros()[1]->getNumero();
 
 		ecua = new CEcuacion(a, b, c, d, 2);
-
-
 
 		cout << "A: " << a << endl;
 		cout << "B: " << b << endl;
@@ -214,13 +204,7 @@ public:
 		string cadena = ecua->toda_ecuacion();
 		cout << cadena << endl;
 		//cout << ecua->pruebaRangos();
-
-
-
-
-
 	}
-
 
 	CJugador** getListaJugadores() { return listaJugadores; };
 

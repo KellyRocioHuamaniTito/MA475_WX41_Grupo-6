@@ -1,1 +1,25 @@
-﻿
+﻿  Inicio.cpp
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(48,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(59,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(60,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(81,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(144,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(153,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(154,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(177,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\Pantalla01.h(420,7): warning C4101: 'numero': variable local sin referencia
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\Pantalla01.h(418,7): warning C4101: 'tmp': variable local sin referencia
+  Pantalla01.cpp
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(48,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(59,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(60,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(81,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(144,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(153,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(154,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\CEcuacion.h(177,18): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\Pantalla01.h(420,7): warning C4101: 'numero': variable local sin referencia
+C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\Pantalla01.h(418,7): warning C4101: 'tmp': variable local sin referencia
+  Generando código...
+  Inicio.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TP_Grupo06.vcxproj -> C:\Users\Kelly\Documents\UNIVERSIDAD\CICLO V\Matematica computacional\Proyecto TP -MC\Programa_Grupo06\TP_Grupo06\Debug\TP_Grupo06.exe

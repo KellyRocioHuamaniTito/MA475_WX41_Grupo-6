@@ -413,7 +413,7 @@ void configurarTabla()
 
 		this->Location = System::Drawing::Point(500, 100);
 		this->ClientSize = System::Drawing::Size(500, 400);
-		juego->agrego2Jugadores();// rrelenar 2 jugadores con su estrategias
+		juego->agrego2Jugadores();//  2 jugadores con su estrategias
 		juego->llenarTodo();
 		int tmp;
 		String^ cadena;
